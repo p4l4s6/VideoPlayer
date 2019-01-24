@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "111833412889",
+    "firebase_url": "https://video-player-8c37a.firebaseio.com",
+    "project_id": "video-player-8c37a",
+    "storage_bucket": "video-player-8c37a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111833412889:android:b24a344cbf7114c0",
+        "android_client_info": {
+          "package_name": "com.mahainc.videoplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111833412889-bel24cjbbo782ee2q6cp77peadb1ifgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa64Z2Ox0hnpvBIGP8BTQnRT4CdfyhjkU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

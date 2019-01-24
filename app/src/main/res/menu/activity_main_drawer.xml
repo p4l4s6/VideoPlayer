@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_music"
+        android:icon="@drawable/ic_music_player"
+        android:title="Music Player" />
+
+    <item
+        android:id="@+id/nav_rate"
+        android:icon="@drawable/ic_star_black_24dp"
+        android:title="Rate" />
+
+    <item
+        android:id="@+id/nav_feedback"
+        android:icon="@drawable/ic_error_black_24dp"
+        android:title="About" />
+    <item
+        android:id="@+id/nav_more"
+        android:icon="@drawable/ic_more_black_24dp"
+        android:title="More Apps" />
+
+    <item
+        android:id="@+id/nav_share"
+        android:icon="@drawable/ic_menu_share"
+        android:title="Share" />
+
+</menu>
