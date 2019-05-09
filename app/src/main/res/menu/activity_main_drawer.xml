@@ -23,6 +23,12 @@
         android:title="More Apps" />
 
     <item
+        android:id="@+id/nav_privacy_policy"
+        android:icon="@drawable/ic_privacy_policy"
+        android:title="Privacy Policy" />
+
+
+    <item
         android:id="@+id/nav_share"
         android:icon="@drawable/ic_menu_share"
         android:title="Share" />

@@ -144,6 +144,9 @@ public class MainActivity extends AppCompatActivity
             showLargeAdBeforeLoadingActivity(intent);
         } else if (id == R.id.nav_share) {
             shareApp();
+        } else if (id == R.id.nav_privacy_policy) {
+            Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(getString(R.string.privacy_policy_url)));
+            startActivity(browserIntent);
         } else if (id == R.id.nav_rate) {
             showRating();
         }
