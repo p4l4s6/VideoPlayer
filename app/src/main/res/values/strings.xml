@@ -20,8 +20,9 @@
     <string name="rate_app_url">market://details?id=com.mahainc.videoplayer</string>
 
 
-    <string name="banner_ad_id">ca-app-pub-3940256099942544/6300978111</string>
-    <string name="admob_app_id">ca-app-pub-3940256099942544~3347511713</string>
-    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="banner_ad_id">ca-app-pub-4301390231558900/9768644275</string>
+    <string name="admob_app_id">ca-app-pub-4301390231558900~8459432032</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-4301390231558900/5063112501</string>
     <string name="privacy_policy_url">https://nebula.000webhostapp.com/policies/videoplayer/mahainc/privacy_policy.html</string>
+    <string name="version">Version 10.0.1</string>
 </resources>
